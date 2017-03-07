@@ -1,6 +1,6 @@
 # Next-Extended-Karachi
  
-#### Google Cloud Next '17 Extended will be held in Karachi at [NED University of Engineering and Technology](http://www.neduet.edu.pk/)  on March 18, 2017. [Check out](https://www.facebook.com/events/1825116307765328/) our event page on Facebook to find out more about the event.  
+#### Google Cloud Next '17 Extended will be held in Karachi at [NED University of Engineering and Technology](http://www.neduet.edu.pk/)  on March 18, 2017. [Check out](https://www.facebook.com/events/1825116307765328/) our event page on Facebook to find out more about the event and [register](https://docs.google.com/forms/d/e/1FAIpQLSfUGEZAWu1pBeITOhaRq7quX0nRo0tCizgmeARwFiJjMBVILQ/viewform) if you wish to attend. 
 We will be having multiple talks from local industry experts regarding Google cloud and latest Google innovations in Machine Learning like TensorFlow. Including  **Google Summer of Code '17!**
 
 ####Now what is Google Summer of Code?
