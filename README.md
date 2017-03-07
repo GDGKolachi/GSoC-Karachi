@@ -11,4 +11,6 @@ Here, we have two aims. We plan to get you familiar with the strategies to be a 
 
 If you plan to attend Google Cloud Next '17 at NED, let's get you a bit acquainted with GitHub and in return you get a goodie bag from us! For that we would like you to add your names to a text file in this repository. Simply access _names.txt_ in the  _pull-request_ folder and submit a pull request with your name in the [full-name] [institution] format on a new line. View _names.txt_ for examples. If you find this task difficult to accomplish, you can complete [this](https://www.udacity.com/course/how-to-use-git-and-github--ud775) short free course at Udacity. 
 
-So do you wanna spend your summer break writing code and learning about open source development while earning a stipend, and moreover, representing Karachi? We hope the answer is **YES!**
+So do you wanna spend your summer break writing code and learning about open source development while earning a stipend, and moreover, representing Karachi? We hope the answer is **YES!**  
+
+For all those of you interested in being part of the GSoC community in Karachi, do join our [Facebook group](https://www.facebook.com/groups/245355492601269/)!
