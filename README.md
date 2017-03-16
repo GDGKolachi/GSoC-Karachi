@@ -1,9 +1,11 @@
 # Next-Extended-Karachi
  
-#### Google Cloud Next '17 Extended will be held in Karachi at [NED University of Engineering and Technology](http://www.neduet.edu.pk/)  on March 18, 2017. [Check out](https://www.facebook.com/events/1825116307765328/) our event page on Facebook to find out more about the event and [register](https://docs.google.com/forms/d/e/1FAIpQLSfUGEZAWu1pBeITOhaRq7quX0nRo0tCizgmeARwFiJjMBVILQ/viewform) if you wish to attend. 
+**Google Cloud Next '17 Extended will be held in Karachi at [NED University of Engineering and Technology](http://www.neduet.edu.pk/)  on March 18, 2017. [Check out](https://www.facebook.com/events/1825116307765328/) our event page on Facebook to find out more about the event and [register](https://docs.google.com/forms/d/e/1FAIpQLSfUGEZAWu1pBeITOhaRq7quX0nRo0tCizgmeARwFiJjMBVILQ/viewform) if you wish to attend.**   
+_**Note**: Registrations have closed. No more pull requests will be accepted anymore._
+
 We will be having multiple talks from local industry experts regarding Google cloud and latest Google innovations in Machine Learning like TensorFlow. Including  **Google Summer of Code '17!**
 
-####Now what is Google Summer of Code?
+#### Now what is Google Summer of Code?
 
 The **Google Summer of Code**, often abbreviated to **GSoC**, is an international internship program, organized by Google where a few accepted students contribute to open source organizations such as Django, Git, Mozilla during the summer, and get awarded a stipend by Google. You can find out more about Google Summer of Code [here](https://summerofcode.withgoogle.com/).
  
